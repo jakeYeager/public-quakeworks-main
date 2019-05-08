@@ -1,6 +1,7 @@
 ---
 lang: en-US
-title: Almanacs
+title: Almanac FAQ
+description: Information resource for the Earth-tide almanacs.
 ---
 
 # Almanac FAQ
@@ -11,7 +12,7 @@ The Earth-tide almanac is designed to show earthquake occurrences through time. 
 
 To better understand these visualizations, here are a few essential things to know:
 
-### Markers
+### Marker Calendar
 
 To be as exact as possible in tracking historical activity, a custom calendaring system was created to place events in time. This custom calendar essentially divides the year into sixteen parts rather than the common twelve months of the civil or Gregorian calendar. This customized calendar is referred to here as the “marker” calendar. Here are the benefits that the marker calendar offers:
 

@@ -1,6 +1,7 @@
 ---
 lang: en-US
 title: Glossary
+description: A glossary of terms related to Quake Works projects.
 ---
 
 # Glossary

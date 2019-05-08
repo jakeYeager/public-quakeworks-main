@@ -1,6 +1,7 @@
 ---
 lang: en-US
 title: Copyright & Credits
+description: Copyright, credits and acknowledgments for Quake Works related projects.
 ---
 
 # Copyright
