@@ -10,7 +10,7 @@ module.exports = {
             .plugin('footnote')
             .use(require('markdown-it-footnote'))
     },
-    'ga': 'UA-99759012-15',
+    'ga': 'UA-99759012-13',
     head: [
         ['link', { rel: 'icon', href: `/hero-logo.png` }],
         ['meta', { name: 'theme-color', content: '#3366cc' }],
