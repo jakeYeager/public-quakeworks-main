@@ -34,17 +34,17 @@ The effect of the Earth-tide is very slight, with the ground moving a distance m
 
 The phenomenon of the Earth-tide could be a subtle but powerful enough mechanism to effect the tectonic plates, and by extension, their earthquakes.
 
-## The Pirate Ship Example
+## Wooden Ship Example
 
 Imagine an old wooden pirate ship pitching on stormy seas.
 
-As the boat pitches up a wave, the shape of the boat is put under stress responding to the mountain of water; the boards that create the boat's shape become racked under this deformation ...and they creak.
+As the boat pitches up a wave, the shape of the boat is put under stress responding to the mountain of water; the boards that create the boat's shape become racked under this deformation ...and the boards creak.
 
 As the boat falls back down the other side of the wave, the ship's boards groan as they relax back to their intended position.
 
-If we use this imaginary pirate ship on stormy seas as a conceptual model, with the ship being the Earth, the sea waves being the Sun's gravity deforming the Earth, and the creak/groans being earthquakes, then we could have a model for seemly random earthquakes in fact being induced events.
+If we use this wooden ship as a conceptual model, with the ship being the Earth, the sea waves being the gravitational influences, and the creak/groans being earthquakes, then we could have a model for seemly random earthquakes being environmentally induced events.
 
-This is the core concept behind the Earth-tide almanac. If earthquakes are the creaks and groans of tectonic plates rubbing together then by using them as indicators, or proxies, it could be possible to observe the “tossing of the the ship on the waves” or, more literally, the rhythmical deformation of the Earth under the gravitational influence of the Sun.
+This is the core concept behind the Earth-tide almanac. If earthquakes are the creaks and groans of tectonic plates rubbing together then by using them as indicators, or movement proxies, it could be possible to observe the “tossing ship” or, more literally, the rhythmical deformation of the Earth under the gravitational influences.
 
 <p class="hero action">
 <a class="nav-link action-button" href="https://shop.quake.works" target="_blank">Shop Almanacs →</a>

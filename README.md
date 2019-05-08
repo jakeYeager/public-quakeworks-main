@@ -5,3 +5,23 @@
 # Quake Works FAQ Project
 
 Quake Works FAQ and Support site documentation.
+
+## Colors
+
+- Black 000000
+- Blue 3366cc
+- Green 009900
+- Grey 666666
+- Orange ff6633
+- Purple 9933cc
+- Red cc3333
+- White ffffff
+- Yellow ffcc33
+
+## Fonts
+
+```scss
+ $family-san-serif: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+ $family-serif: "Quattrocento", "Georgia", serif;
+ $family-monospace: "Ubuntu Mono", monospace;
+```
