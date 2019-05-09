@@ -25,3 +25,18 @@ Quake Works FAQ and Support site documentation.
  $family-serif: "Quattrocento", "Georgia", serif;
  $family-monospace: "Ubuntu Mono", monospace;
 ```
+
+<p align="center">
+    <a href="https://shop.quake.works">
+        <img src="https://craton.sfo2.cdn.digitaloceanspaces.com/qw-main/btn/shop.svg" width="120px">
+    </a>
+    <a href="https://twitter.com/quakeyeager">
+        <img src="https://craton.sfo2.cdn.digitaloceanspaces.com/qw-main/btn/twitter.svg" width="120px">
+    </a>
+    <a href="https://github.com/jakeYeager">
+        <img src="https://craton.sfo2.cdn.digitaloceanspaces.com/qw-main/btn/github.svg" width="120px">
+    </a>
+    <a href="#">
+        <img src="https://craton.sfo2.cdn.digitaloceanspaces.com/qw-main/btn/youtube.svg" width="120px">
+    </a>
+</p>

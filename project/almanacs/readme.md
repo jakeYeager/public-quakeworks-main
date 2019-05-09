@@ -4,9 +4,7 @@ title: Almanac FAQ
 description: Information resource for the Earth-tide almanacs.
 ---
 
-# Almanac FAQ
-
-The Earth-tide almanac is designed to show earthquake occurrences through time. Historical earthquake activity is plotted in simple visualizations to show when events occurred relative to the Earth’s orbit around the Sun. These visualizations help illustrate that not only is the Earth’s orbit locked in the Sun’s gravity, but also the shape of the Earth is slightly contorted throughout the year. In turn this contortion effects the brittle surface, or crust of the Earth. Using earthquake activity as an indicator, the  visualizations can offer a perspective of when the crust compresses and relaxes.
+The Earth-tide almanac is designed to simply show earthquake occurrences through time. Historical earthquake activity is plotted in simple visualizations to show when events occurred relative to the Earth’s orbit around the Sun. These visualizations help illustrate that not only is the Earth’s orbit locked in the Sun’s gravity, but also the shape of the Earth is slightly contorted throughout the year. In turn this contortion effects the brittle surface, or crust of the Earth. Using earthquake activity as an indicator, the  visualizations can offer a perspective of when the crust compresses and relaxes.
 
 ## Visualization Setup
 
@@ -24,9 +22,9 @@ To be as exact as possible in tracking historical activity, a custom calendaring
 
 [**Go To Glossary**](../glossary/readme.md#markers)
 
-### Magnitudes
+### Magnitude Ranges
 
-To get a thumbnail perspective of what size of earthquakes happen through time, the events have been aggregated into magnitude categories demarcated by whole magnitude integer, i.e. all events with a magnitude between M4.0 to M4.9 are counted in the “M4” category, all events with a magnitude between M5.0 to M5.9 are counted in the “M5” category, etc. Although generalized, this allows for an added layer of information to compare.
+To get a thumbnail perspective of what size of earthquakes happen through time, the events have been aggregated into magnitude categories demarcated by whole magnitude integer, i.e. all events with a magnitude between M4.0 to M4.9 are counted in the “M4” category, all events with a magnitude between M5.0 to M5.9 are counted in the “M5” category, etc. Although generalized, this creates a simple method for comparing events.
 
 ### Viable Data
 
@@ -43,3 +41,5 @@ There are three different types of visualizations, and each magnitude range has 
 **The equalizer** visualization is a combination of multiple stacks of increasing magnitude groups. This allows for viewing all the data in one totality.
 
 **The stats** matrix is the combined calculations from the stacks, grouped by type of calculation.
+
+![Chart Types](https://craton.sfo2.cdn.digitaloceanspaces.com/qw-main/chrt/chart-types.svg)

@@ -4,10 +4,6 @@ title: Glossary
 description: A glossary of terms related to Quake Works projects.
 ---
 
-# Glossary
-
-A glossary of Quake Works terms and concepts.
-
 ## Markers
 
 ### What is a marker?
@@ -20,7 +16,7 @@ To be as exact as possible in tracking historical activity, a custom calendaring
 
 **Keyed to astronomy:** There are annual geometries that the Earth makes relative to the Sun, eg. the vertical alignment of the Earth’s rotational axis to it’s orbital axis at the “solstice” positions; the furthest orbital position from the Sun at aphelion. These alignments are slightly transitory and do not occur on a fixed day of the year. And they are not well marked in the common calendar month framework. Even with their transitory nature, the marker calendar makes an attempt at keying the marker periods to these alignments: the northern hemisphere “Winter Solstice” is the zero-point start of the marker timeline.
 
-![Calendar comparison](../_media/img/12vs16-hoz.svg )
+![Calendar comparison](https://craton.sfo2.cdn.digitaloceanspaces.com/qw-main/mrk/12vs16-hoz.svg )
 
 ### Marker Schedule
 
@@ -43,18 +39,25 @@ To be as exact as possible in tracking historical activity, a custom calendaring
 | Mrk15 |  Nov 5 - Nov 27 |   23 days   |                           None                          |
 | Mrk16 | Nov 28 - Dec 20 |   23 days   |                           None                          |
 
----
+### Marker Orbital Positions
+
+![Marker Orbital Positions](https://craton.sfo2.cdn.digitaloceanspaces.com/qw-main/mrk/orbital-positions.svg)
+
+## Randomness
+
+### What's the difference between true-random vs pseudo-random?
+
+True-random numbers cannot be reverse-engineered as their creation includes an external mechanism or process that is uncontrolled and unpredictable. Pseudo-random generators are discreet algorithms it is possible (even if highly complex) to have a measure of prediction as to what the output will be. Their output will still be chaotic and approximate "white noise", but is not secret or truly unknowable.
+
+Other resources of interest on the topic of randomness:
+
+- *"Introduction to Randomness and Random Numbers"* [random.org](https://www.random.org/randomness/)
+- *"Are the Numbers Really Random?"* [random.org](https://www.random.org/analysis/)
+- *"A Million Random Digits with 100,000 Normal Deviates"* [rand.org](https://www.rand.org/pubs/monograph_reports/MR1418/index2.html)
+
 
 ## Seismic Pause
 
 ### What is the seismic pause?
 
 The seismic pause is the period during the middle of the year when earthquake activity is at it's lowest point, as shown in aggregate historical data. The seismic pause is not specific to a region but seen as a global activity.
-
----
-
-## True vs Pseudo-Random
-
-### What's the difference between true-random vs pseudo-random?
-
-True-random numbers cannot be reverse-engineered as their creation includes an external mechanism or process that is uncontrolled and unpredictable. Pseudo-random generators are discreet algorithms it is possible (even if highly complex) to have a measure of prediction as to what the output will be. Their output will still be chaotic and approximate "white noise", but is not secret or truly unknowable.

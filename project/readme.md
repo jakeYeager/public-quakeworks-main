@@ -44,15 +44,24 @@ As the boat falls back down the other side of the wave, the ship's boards groan 
 
 If we use this wooden ship as a conceptual model, with the ship being the Earth, the sea waves being the gravitational influences, and the creak/groans being earthquakes, then we could have a model for seemly random earthquakes being environmentally induced events.
 
-This is the core concept behind the Earth-tide almanac. If earthquakes are the creaks and groans of tectonic plates rubbing together then by using them as indicators, or movement proxies, it could be possible to observe the “tossing ship” or, more literally, the rhythmical deformation of the Earth under the gravitational influences.
+This is the core concept behind the Earth-tide almanac. If earthquakes are the creaks and groans of tectonic plates rubbing together then by using them as indicators, or movement proxies, it could be possible to observe the “tossing ship” or, more literally, the deformation cycle of the Earth by gravitational influences.
 
-<p class="hero action">
-<a class="nav-link action-button" href="https://shop.quake.works" target="_blank">Shop Almanacs →</a>
+[**Watch the demos →**](/tutorials/)
+
+<p align="center">
+    <a href="https://shop.quake.works" target="_blank">
+        <img src="https://craton.sfo2.cdn.digitaloceanspaces.com/qw-main/btn/shop.svg" width="120px">
+    </a>
+    <a href="https://twitter.com/quakeyeager" target="_blank">
+        <img src="https://craton.sfo2.cdn.digitaloceanspaces.com/qw-main/btn/twitter.svg" width="120px">
+    </a>
+    <a href="https://github.com/jakeYeager" target="_blank">
+        <img src="https://craton.sfo2.cdn.digitaloceanspaces.com/qw-main/btn/github.svg" width="120px">
+    </a>
 </p>
 <br>
-
 <p align="center">
 <em>Crafted in California, USA.</em>
 <br>
-<img src="./_media/footer-flags.png" style="width:100px;" alt="flags">
+<img src="https://craton.sfo2.cdn.digitaloceanspaces.com/qw-main/btn/footer-flags.png" style="width:100px;" alt="flags">
 </p>
