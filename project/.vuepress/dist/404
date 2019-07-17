@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>Quake Works</title>
+    <meta name="description" content="Quake works is a data-centric research project by Jake Yeager, which focuses on creating fault system status and indicator models, rather than chasing triggers and predictions.">
+    <link rel="icon" href="/hero-logo.png">
+  <meta name="theme-color" content="#3366cc">
+  <link rel="apple-touch-icon" sizes="180x180" href="/icons/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/icons/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/icons/favicon-16x16.png">
+  <link rel="manifest" href="/icons/site.webmanifest">
+    
+    <link rel="preload" href="/assets/css/0.styles.4bd2e983.css" as="style"><link rel="preload" href="/assets/js/app.60a1f747.js" as="script"><link rel="preload" href="/assets/js/4.daa2d477.js" as="script"><link rel="prefetch" href="/assets/js/10.c0c5b8ea.js"><link rel="prefetch" href="/assets/js/11.2ae597bf.js"><link rel="prefetch" href="/assets/js/12.7256928a.js"><link rel="prefetch" href="/assets/js/2.4714df38.js"><link rel="prefetch" href="/assets/js/3.93c9017c.js"><link rel="prefetch" href="/assets/js/5.514f74ff.js"><link rel="prefetch" href="/assets/js/6.a0b88789.js"><link rel="prefetch" href="/assets/js/7.dbc737fd.js"><link rel="prefetch" href="/assets/js/8.4d2f7c3b.js"><link rel="prefetch" href="/assets/js/9.238c5204.js">
+    <link rel="stylesheet" href="/assets/css/0.styles.4bd2e983.css">
+  </head>
+  <body>
+    <div id="app" data-server-rendered="true"><div class="theme-container"><div class="theme-default-content"><h1>404</h1> <blockquote>There's nothing here.</blockquote> <a href="/" class="router-link-active">Take me home.</a></div></div><div class="global-ui"><!----></div></div>
+    <script src="/assets/js/app.60a1f747.js" defer></script><script src="/assets/js/4.daa2d477.js" defer></script>
+  </body>
+</html>
